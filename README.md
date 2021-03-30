@@ -1,2 +1,2 @@
-# test
-this is a test for my first website
+# Kavin's EA journey
+Welcome to my world 
